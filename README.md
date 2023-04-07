@@ -4,5 +4,6 @@ This is an empty repository. It was made for test because I just signed up GitHu
 
 hello world.
 
-![图1代替文本](image/README/1680774055033.png "图1标题")
-![image](image/README/飞热管干趴南桥.jpg)
+![图1](image/README/1680774055033.png "图1标题")
+
+<p><img src="image/README/飞热管干趴南桥.jpg" alt="foo" title="title" onerror="this.src='https://iknow-pic.cdn.bcebos.com/3bf33a87e950352a88cf131d5d43fbf2b2118b7c';"/></p>
