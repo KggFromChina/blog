@@ -1,6 +1,6 @@
 ![帖子版头](image/deathofmusic/1681058347665.png "帖子版头")
 
-[←返回主页](pages/welcome/index.md)
+[←返回主页](../welcome/index.md)
 
 　　感谢您愿意浏览我的作品！如有向我反馈《乐之殇》相关问题的需要，欢迎进入[本游戏在Project1论坛的发布页](https://rpg.blue/thread-481935-1-1.html)留言。
 
