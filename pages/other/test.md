@@ -4,9 +4,9 @@
 
 　　github page还不太会用，写html不如写markdown方便。况且据说gitee在没钱的前提下不能自动同步github page。同步到gitee的好处是访问稳定，毕竟是打算给更多人看的。
 
-![图1](image/README/1680774055033.png "图1标题")
+![图1](pages/other/image/test/1680774055033.png "图1标题")
 
-<p><img src="image/README/飞热管干趴南桥.jpg" alt="foo" title="title" onerror="this.src='https://iknow-pic.cdn.bcebos.com/3bf33a87e950352a88cf131d5d43fbf2b2118b7c';this.onerror=null;"/></p>
+<p><img src="pages/other/image/test/飞热管干趴南桥.jpg" alt="foo" title="title" onerror="this.src='https://iknow-pic.cdn.bcebos.com/3bf33a87e950352a88cf131d5d43fbf2b2118b7c';this.onerror=null;"/></p>
 
 <body>
     <h3>html展开</h3>

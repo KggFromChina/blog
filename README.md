@@ -8,4 +8,4 @@
 
 　　您好！要浏览，请前往主页。
 
-* [主页](pages\welcome\index.md "主页")
+* [主页](pages/welcome/index.md "主页")
