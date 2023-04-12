@@ -92,102 +92,102 @@
 
 ## **创作者**
 
-开关关  心上秋
+> 开关关  心上秋
 
 ## **鸣谢 非原创素材来源**
 
 ### 声音
 
-**RMMV**
+> **RMMV**
+>
+> https://www.rpgmakerweb.com/
 
-https://www.rpgmakerweb.com/
+> **Adobe Audition Sound Effects**
+>
+> https://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html
 
-**Adobe Audition Sound Effects**
+> **FreePD**
+>
+> https://freepd.com/
 
-https://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html
+> **HURT RECORD**
+>
+> https://www.hurtrecord.com/
 
-**FreePD**
+> **魔王魂**
+>
+> https://maoudamashii.jokersounds.com/
 
-https://freepd.com/
-
-**HURT RECORD**
-
-https://www.hurtrecord.com/
-
-**魔王魂**
-
-https://maoudamashii.jokersounds.com/
-
-**ポケットサウンド**
-
-https://pocket-se.info/
+> **ポケットサウンド**
+>
+> https://pocket-se.info/
 
 ### 图像
 
-**RMMV  RMVA**
-
-https://www.rpgmakerweb.com/
+> **RMMV  RMVA**
+>
+> https://www.rpgmakerweb.com/
 
 ### 插件
 
-**作者：RM CoreScript team**
+> **作者：RM CoreScript team**
+>
+> https://www.rpgmakerweb.com/
 
-https://www.rpgmakerweb.com/
+> **作者：Moghunter**
+>
+> https://atelierrgss.wordpress.com/
 
-**作者：Moghunter**
+> **作者：Drill_up**
+>
+> https://rpg.blue/thread-409713-1-2.html
 
-https://atelierrgss.wordpress.com/
+> **作者：芯☆淡茹水**
+>
+> https://rpg.blue/thread-480181-1-1.html
 
-**作者：Drill_up**
+> **作者：triacontane**
+>
+> https://github.com/triacontane/RPGMakerMV/blob/master/MessageWindowPopup.js
 
-https://rpg.blue/thread-409713-1-2.html
-
-**作者：芯☆淡茹水**
-
-https://rpg.blue/thread-480181-1-1.html
-
-**作者：triacontane**
-
-https://github.com/triacontane/RPGMakerMV/blob/master/MessageWindowPopup.js
-
-**作者：魏玉龙**
-
-https://rpg.blue/thread-410179-1-1.html
+> **作者：魏玉龙**
+>
+> https://rpg.blue/thread-410179-1-1.html
 
 # 更新日志
 
-0.1.6 beta 20200612
+> ###### 0.1.6 beta 20200612
+>
+> 修改了全部谱面（都是小幅调整，比如BGM的延迟什么的）。
+> 增加了结算界面显示曲名和本次成绩与最高成绩差值的功能。
 
-    修改了全部谱面（都是小幅调整，比如BGM的延迟什么的）。
-    增加了结算界面显示曲名和本次成绩与最高成绩差值的功能。
+> ###### 0.1.5 beta 20200611 有bug，已下架。
+>
+> 修复了音符击打效果动画会移动的bug。
+> 修改了判定机制，提高了击打判定的精度和运行效率。
+> 修改了Priere (Eazy)、Priere (Normal)、Erize (Eazy)、悲しみのモノクロ (Eazy)、宵闇月の鼓動 (Eazy)的谱面（小幅调整以适应新机制，以往成绩暂时不作废）。
+> 增加了成绩替换模式（设置中打开后，可以强制用最新成绩替换以往最高成绩。因为谱面有变化，一些数值可能会出错，用此法以新换旧即可解决）。
 
-0.1.5 beta 20200611 有bug，已下架。
+> ###### 0.1.4 beta 20200610
+>
+> 修复了两个“按下”音符挨得太近时，按一次同时击打两个的bug。
+> 增加了按住按键的视觉效果。
 
-    修复了音符击打效果动画会移动的bug。
-    修改了判定机制，提高了击打判定的精度和运行效率。
-    修改了Priere (Eazy)、Priere (Normal)、Erize (Eazy)、悲しみのモノクロ (Eazy)、宵闇月の鼓動 (Eazy)的谱面（小幅调整以适应新机制，以往成绩暂时不作废）。
-    增加了成绩替换模式（设置中打开后，可以强制用最新成绩替换以往最高成绩。因为谱面有变化，一些数值可能会出错，用此法以新换旧即可解决）。
+> ###### 0.1.3 beta 20200530
+>
+> 修复了练习选曲列表不显示AC的bug。（更新后需要打一次才显示AC或FC。）
 
-0.1.4 beta 20200610
+> ###### 0.1.2 beta 20200529
+>
+> 修复了序幕家门口可以通行的bug。（关上了墙世界的大门。）
+> 增加了练习选曲列表显示FC、AC两种成就的功能。（刚更新不会显示FC，打一次就有了。）
 
-    修复了两个“按下”音符挨得太近时，按一次同时击打两个的bug。
-    增加了按住按键的视觉效果。
+> ###### 0.1.1 beta 20200527
+>
+> 修复了通关后回顾剧情不运行自动事件的bug。
+> 修复了从未练习过的曲子读取最高分报错的bug。
+> 修复了通关后练习结束不淡入画面的bug。
 
-0.1.3 beta 20200530
-
-    修复了练习选曲列表不显示AC的bug。（更新后需要打一次才显示AC或FC。）
-
-0.1.2 beta 20200529
-
-    修复了序幕家门口可以通行的bug。（关上了墙世界的大门。）
-    增加了练习选曲列表显示FC、AC两种成就的功能。（刚更新不会显示FC，打一次就有了。）
-
-0.1.1 beta 20200527
-
-    修复了通关后回顾剧情不运行自动事件的bug。
-    修复了从未练习过的曲子读取最高分报错的bug。
-    修复了通关后练习结束不淡入画面的bug。
-
-0.1.0 beta 20200526
-
-    发布了游戏本体。
+> ###### 0.1.0 beta 20200526
+>
+> 发布了游戏本体。
