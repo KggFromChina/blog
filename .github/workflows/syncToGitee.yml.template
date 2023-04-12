@@ -2,7 +2,7 @@ name: syncToGitee
 on:
   push:
     branches:
-      - gh-pages
+      - master
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
@@ -10,8 +10,8 @@ jobs:
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
-          src: 'github/mqyqingfeng'
-          dst: 'gitee/mqyqingfeng'
+          src: 'github/kggfromchina'
+          dst: 'gitee/kggfc'
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token:  ${{ secrets.GITEE_TOKEN }}
           static_list: "learn-typescript"
